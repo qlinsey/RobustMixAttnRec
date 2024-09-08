@@ -19,4 +19,4 @@ python run.py --templates train_bert
 OR python run.py --templates train_meantime --dataset_code game --hidden_units 128
 
 # Code Base: 
-https://github.com/SungMinCho/MEANTIME/ (thanks) 
+https://github.com/SungMinCho/MEANTIME/ 
